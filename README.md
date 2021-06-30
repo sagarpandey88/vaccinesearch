@@ -1,6 +1,3 @@
-# Status
-The Development is in progress. Will announce the progress in this section
-
 # Vaccine Search App
 
 Vaccine Search App allows you to set notification for vaccine availability. The idea behind the solution is to be least privacy invasive by not storing any information.
@@ -18,3 +15,6 @@ Also the SW apart from checking the polling interval also considers the enabled 
 # Coming Up
 1. Technical Block diagram
 2. Issues fixes if any
+
+# Status
+The Development is in progress. Will announce the progress in this section
